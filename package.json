@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "webpack-stream": "^7.0.0"
+  }
+}
